@@ -96,20 +96,31 @@ The `Student` class has the following attributes:
 5. Access endpoints via `http://localhost:8080/app/...`
 
 ## Outputs
-1. **Welcome Message:**
-   - Screenshot (969)
-2. **Age Endpoint:**
-   - Screenshot (970)
-3. **Get Single Student:**
-   - Screenshot (971)
-4. **Get All Students:**
-   - Screenshot (972, 973)
-5. **Find Student by RegNo:**
-   - Screenshot (978)
-6. **Find Students by Age (20-24):**
-   - Screenshot (975)
-7. **Sorted Students by GPA:**
-   - Screenshot (976, 977)
+1. **Display Age:**
+   - ![Image](https://github.com/user-attachments/assets/b06f2739-bb9c-42f0-987e-2ae386d21a30)
+     
+2. **Get Single Student:**
+   - ![Image](https://github.com/user-attachments/assets/fb72b13d-e50c-4780-833d-7c03e30a5255)
+     
+3. **Get All Students:**
+  - ![Image](https://github.com/user-attachments/assets/69cf8f91-af9f-4eeb-826a-f9e2ccfd4a05)
+   
+4. **Find Student by RegNo:**
+   -![Image](https://github.com/user-attachments/assets/791c69a0-cb2a-4e0b-b3f9-abf642ca29b2)
+   
+5. **Find Students by Age (20-24):**
+   - ![Image](https://github.com/user-attachments/assets/79a1566c-2a75-4098-8eb5-39f3da4b83a5)
+     
+6. **Sorted Students by GPA:**
+   - ![Image](https://github.com/user-attachments/assets/afdc1724-5b1f-4ad9-85b5-0501e366c55d)
+
+7. **CURD Operations(CREATE):**
+  - ![Image](https://github.com/user-attachments/assets/7f7c8ba9-3814-4afd-a534-9eeef9c26dc9)
+
+8. **CURD Operations(UPDATE):**
+   -![Image](https://github.com/user-attachments/assets/c660ef3e-a60e-4533-a924-c526da110649)
+9. **CURD Operations(CREATE):**
+    -![Image](https://github.com/user-attachments/assets/7e57c8d7-0b29-485f-a55f-f60da4d74504)
 
 
 
