@@ -44,12 +44,12 @@ This Spring Boot REST API manages student information. It provides endpoints to 
 - **Example:** `/app/students/2020ICT47`
 
 ### 5. Find Students by Age Range (20-24)
-- **URL:** `/app/students/age`
+- **URL:** `/app/students/age-between`
 - **Method:** `GET`
 - **Description:** Returns students whose age is between 20 and 24.
 
 ### 6. Sort Students by GPA
-- **URL:** `/app/students/gpa`
+- **URL:** `/app/students/sorted-by-gpa`
 - **Method:** `GET`
 - **Description:** Returns students sorted by GPA in ascending order.
 
